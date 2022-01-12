@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rengwuxian.materialedittext:library:2.1.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99f2833f345b989be0b04243cbe14fbf/jetified-library-2.1.4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e80748508682fe2973c2b9c19f502db6/jetified-library-2.1.4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c0389d0ad55b862bf089833b4f49913/jetified-library-2.1.4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4784ffdabe7fb5a8cc832ef108aed503/jetified-library-2.1.4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9019afff32e60059aa1dbdbfcf133e0b/jetified-library-2.1.4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/019051043089d03d743ae084df7bdc95/jetified-library-2.1.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99f2833f345b989be0b04243cbe14fbf/jetified-library-2.1.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99f2833f345b989be0b04243cbe14fbf/jetified-library-2.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99f2833f345b989be0b04243cbe14fbf/jetified-library-2.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e80748508682fe2973c2b9c19f502db6/jetified-library-2.1.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e80748508682fe2973c2b9c19f502db6/jetified-library-2.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e80748508682fe2973c2b9c19f502db6/jetified-library-2.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c0389d0ad55b862bf089833b4f49913/jetified-library-2.1.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c0389d0ad55b862bf089833b4f49913/jetified-library-2.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c0389d0ad55b862bf089833b4f49913/jetified-library-2.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4784ffdabe7fb5a8cc832ef108aed503/jetified-library-2.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4784ffdabe7fb5a8cc832ef108aed503/jetified-library-2.1.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4784ffdabe7fb5a8cc832ef108aed503/jetified-library-2.1.4/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9019afff32e60059aa1dbdbfcf133e0b/jetified-library-2.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9019afff32e60059aa1dbdbfcf133e0b/jetified-library-2.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9019afff32e60059aa1dbdbfcf133e0b/jetified-library-2.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/019051043089d03d743ae084df7bdc95/jetified-library-2.1.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/019051043089d03d743ae084df7bdc95/jetified-library-2.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/019051043089d03d743ae084df7bdc95/jetified-library-2.1.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rengwuxian.materialedittext/library/2.1.4/55b0a991e9defb3bc902d9fb97fd436554119d4e/library-2.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rengwuxian.materialedittext/library/2.1.4/421c5ba24415fde1222bd75540aa012efc22ed5a/library-2.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
